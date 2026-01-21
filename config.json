@@ -25,11 +25,12 @@
       "detail": "https://www.hongniuzy.com"
     },
 
-   "doudouzy": {
-      "api": "https://api.douapi.cc/api.php/provide/vod",
-      "name": "豆豆资源",
-      "detail": "https://doudouzy.com"
+   "slapibf": {
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "name": "森林资源",
+      "detail": "https://slapibf.com"
     },
+    
     
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
